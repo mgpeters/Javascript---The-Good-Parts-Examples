@@ -17,6 +17,3 @@ var foo = function (){
 	bar();
 	// at this point, a is 21 and b is 5.
 };
-
-// Closure:
-// 
